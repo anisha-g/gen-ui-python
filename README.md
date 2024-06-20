@@ -1,6 +1,6 @@
 # Generative UI with LangChain Python 🦜🔗
 
-![Generative UI with LangChain Python](./frontend/public/gen_ui_diagram.png)
+![Generative UI  with LangChain Python](./frontend/public/gen_ui_diagram.png)
 
 ## Overview
 
